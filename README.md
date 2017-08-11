@@ -2,6 +2,9 @@
 
 > Collection of my interesting solutions.
 
+[![Build Status](https://travis-ci.org/WindomZ/interesting-solutions.svg?branch=aimeigou-interview-questions)](https://travis-ci.org/WindomZ/interesting-solutions)
+[![Coverage Status](https://coveralls.io/repos/github/WindomZ/interesting-solutions/badge.svg?branch=aimeigou-interview-questions)](https://coveralls.io/github/WindomZ/interesting-solutions?branch=aimeigou-interview-questions)
+
 ## Install
 
 ```bash
@@ -16,8 +19,8 @@ git checkout aimeigou-interview-questions
 
 ## Solutions
 
-At the terminal:
+In the terminal:
 ```bash
 go run main.go
 ```
-print out the visualization results.
+print out the visualized results.
