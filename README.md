@@ -2,15 +2,15 @@
 
 > Collection of my interesting solutions.
 
-[![Build Status](https://travis-ci.org/WindomZ/interesting-solutions.svg?branch=aimeigou-interview-questions)](https://travis-ci.org/WindomZ/interesting-solutions)
-[![Coverage Status](https://coveralls.io/repos/github/WindomZ/interesting-solutions/badge.svg?branch=aimeigou-interview-questions)](https://coveralls.io/github/WindomZ/interesting-solutions?branch=aimeigou-interview-questions)
+[![Build Status](https://travis-ci.org/WindomZ/interesting-solutions.svg?branch=imaygou-interview-questions)](https://travis-ci.org/WindomZ/interesting-solutions)
+[![Coverage Status](https://coveralls.io/repos/github/WindomZ/interesting-solutions/badge.svg?branch=imaygou-interview-questions)](https://coveralls.io/github/WindomZ/interesting-solutions?branch=imaygou-interview-questions)
 
 ## Install
 
 ```bash
 go get github.com/WindomZ/interesting-solutions
 cd "$GOPATH/src/github.com/WindomZ/interesting-solutions"
-git checkout aimeigou-interview-questions
+git checkout imaygou-interview-questions
 ```
 
 ## Problems
