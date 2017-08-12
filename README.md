@@ -11,6 +11,7 @@
 go get github.com/WindomZ/interesting-solutions
 cd "$GOPATH/src/github.com/WindomZ/interesting-solutions"
 git checkout imaygou-interview-questions
+go get
 ```
 
 ## Problems
